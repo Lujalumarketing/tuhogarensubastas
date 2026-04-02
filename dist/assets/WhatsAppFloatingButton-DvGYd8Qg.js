@@ -1,0 +1,1 @@
+import{s as e}from"./react-vendor-BWEAlVrk.js";import{a as t,t as n}from"./index-DgHOwFyz.js";var r=e();function i(){return(0,r.jsx)(n,{phoneNumber:t.whatsAppNumber,defaultMessage:t.defaultWhatsAppMessage,showTooltip:!0,tooltipText:`Te respondo por WhatsApp`})}export{i as t};
