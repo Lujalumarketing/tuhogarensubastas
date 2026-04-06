@@ -40,7 +40,7 @@ export const services: ServiceItem[] = [
     microcopy: "Ir acompañado marca la diferencia entre el éxito y cometer un error irreparable.",
     urgency: "Plazas limitadas para garantizar seguimiento real.",
     notes: [
-      "El 3% sobre el valor se aplica solo si resultas adjudicatario definitivo (cuando la vivienda pase formalmente a tu nombre)."
+      "El 3% sobre el valor se aplica solo si resultas adjudicatario definitivo (cuando la autoridad gestora de la subasta la inscriba a tu nombre)."
     ],
     badge: "Recomendado",
     isRecommended: true,
