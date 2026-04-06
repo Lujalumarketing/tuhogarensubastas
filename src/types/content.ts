@@ -44,6 +44,7 @@ export interface ServiceItem {
   bullets: string[];
   priceBefore: string;
   priceNow: string;
+  ivaIncluded?: boolean;
   notes: string[];
   badge?: string;
   isRecommended?: boolean;

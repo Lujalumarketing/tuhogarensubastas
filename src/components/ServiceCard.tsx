@@ -103,6 +103,11 @@ function ServiceCard({ service, socialProof }: ServiceCardProps) {
               {service.priceNow}
             </p>
           </div>
+          {service.ivaIncluded && (
+            <p className="mt-1 text-xs font-normal text-slate-400 leading-tight">
+              IVA incluido
+            </p>
+          )}
           {service.priceReinforcement && (
             <p className="mt-1 text-xs font-semibold text-slate-700 leading-tight">
               {service.priceReinforcement}

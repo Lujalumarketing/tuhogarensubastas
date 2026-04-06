@@ -16,6 +16,7 @@ export const services: ServiceItem[] = [
     ],
     priceBefore: "150 EUR",
     priceNow: "99 EUR",
+    ivaIncluded: true,
     priceReinforcement: "Un error en subasta puede costarte miles de euros.",
     microcopy: "Decisión informada > perder dinero por no saber. Sin tecnicismos. Sin dudas. Solo decisión.",
     notes: [
@@ -38,6 +39,7 @@ export const services: ServiceItem[] = [
     ],
     priceBefore: "398 EUR",
     priceNow: "199 EUR + 3%",
+    ivaIncluded: true,
     priceReinforcement: "Acompañamiento real durante todo el proceso.",
     microcopy: "Ir acompañado marca la diferencia entre el éxito y cometer un error irreparable.",
     urgency: "Plazas limitadas para garantizar seguimiento real.",
@@ -62,6 +64,7 @@ export const services: ServiceItem[] = [
     ],
     priceBefore: "798 EUR",
     priceNow: "499 EUR + 4%",
+    ivaIncluded: true,
     priceReinforcement: "Servicio completo para evitar errores críticos.",
     microcopy: "La vía más rápida y segura para quien valora exclusivamente su tiempo y paz mental.",
     urgency: "Solo acepto 2 clientes al mes para mantener exclusividad.",
@@ -85,6 +88,7 @@ export const services: ServiceItem[] = [
     ],
     priceBefore: "300 EUR",
     priceNow: "150 EUR",
+    ivaIncluded: true,
     priceReinforcement: "Avanza seguro en lugar de improvisar perdiendo dinero.",
     microcopy: "No es una llamada genérica: es un diagnóstico personalizado para saber si este camino tiene sentido en tu situación.",
     notes: [
