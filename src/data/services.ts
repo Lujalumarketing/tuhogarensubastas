@@ -11,7 +11,8 @@ export const services: ServiceItem[] = [
       "Te explico exactamente qué estás comprando",
       "Verifico que compras la vivienda con plena propiedad",
       "Calculo el valor real para evitar sobreprecios",
-      "Te digo exactamente cuánto debes pujar"
+      "Te digo exactamente cuánto debes pujar",
+      "Analizo la subasta concreta que tú has encontrado"
     ],
     priceBefore: "150 EUR",
     priceNow: "99 EUR",
@@ -32,7 +33,8 @@ export const services: ServiceItem[] = [
       "Servicio 'Informe Pro' totalmente incluido, y además:",
       "Diseño tu plan de puja estratégico al milímetro",
       "Te acompaño paso a paso hasta que tengas la vivienda",
-      "Resuelvo tus dudas urgentes en tiempo real"
+      "Resuelvo tus dudas urgentes en tiempo real",
+      "Partimos de la subasta que tú has identificado y la optimizamos contigo"
     ],
     priceBefore: "398 EUR",
     priceNow: "199 EUR + 3%",
