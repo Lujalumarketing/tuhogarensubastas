@@ -88,6 +88,7 @@ export const services: ServiceItem[] = [
     priceReinforcement: "Avanza seguro en lugar de improvisar perdiendo dinero.",
     microcopy: "No es una llamada genérica: es un diagnóstico personalizado para saber si este camino tiene sentido en tu situación.",
     notes: [
+      "👉 Sesión privada con análisis previo de tu caso (duración aproximada: 60-90 min).",
       "Antes de la sesión te enviaré un formulario previo para conocer tu situación y aprovechar mejor el tiempo."
     ],
     badge: "Consulta puntual",
