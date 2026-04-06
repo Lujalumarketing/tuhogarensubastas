@@ -74,19 +74,22 @@ export const services: ServiceItem[] = [
   {
     id: "sesion-estrategica",
     name: "Sesión Estratégica 1:1",
-    trademark: "TM",
-    description: "Resuelve tu caso concreto y entiende cómo actuar antes de dar el paso.",
+    trademark: "™",
+    description: "Analizo tu caso concreto y te digo si puedes entrar en subastas, qué opciones encajan contigo y cómo deberías enfocarlo.",
     bullets: [
-      "Aclaro tu mente y definimos tu próxima jugada",
-      "Trazo un plan de acción seguro y a tu medida",
-      "Pregunta cualquier duda técnica, te respondo claro",
-      "2 horas exclusivas centradas solo en tu caso"
+      "Analizo tu situación económica real y tu objetivo de vivienda",
+      "Valoro si puedes entrar en subastas sin ponerte en riesgo",
+      "Definimos qué tipo de subastas encajan contigo",
+      "Te marco los pasos que deberías dar a partir de ahora",
+      "Resuelvo tus dudas con tu caso ya estudiado previamente"
     ],
     priceBefore: "300 EUR",
     priceNow: "150 EUR",
     priceReinforcement: "Avanza seguro en lugar de improvisar perdiendo dinero.",
-    microcopy: "Claridad profunda e inmediata para salir del bloqueo y avanzar con seguridad.",
-    notes: [],
+    microcopy: "No es una llamada genérica: es un diagnóstico personalizado para saber si este camino tiene sentido en tu situación.",
+    notes: [
+      "Antes de la sesión te enviaré un formulario previo para conocer tu situación y aprovechar mejor el tiempo."
+    ],
     badge: "Consulta puntual",
     cta: "Reservar sesión estratégica"
   }
