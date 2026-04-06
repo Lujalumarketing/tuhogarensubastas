@@ -52,6 +52,7 @@ export const services: ServiceItem[] = [
     trademark: "TM",
     description: "Para quien quiere delegarlo todo y minimizar riesgos al máximo.",
     bullets: [
+      "Servicio 'Informe Pro' totalmente incluido",
       "Busco e identifico oportunidades rentables por ti",
       "Filtro proactivamente todo lo que implica riesgos",
       "Gestiono todo el proceso técnico y burocrático",
