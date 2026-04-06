@@ -7,12 +7,12 @@ export const services: ServiceItem[] = [
     trademark: "TM",
     description: "Analizo la subasta por ti y te digo claro si entrar o no.",
     bullets: [
+      "Analizo la subasta concreta que tú has encontrado",
       "Detecto cargas ocultas antes de que sea tarde",
       "Te explico exactamente qué estás comprando",
       "Verifico que compras la vivienda con plena propiedad",
       "Calculo el valor real para evitar sobreprecios",
-      "Te digo exactamente cuánto debes pujar",
-      "Analizo la subasta concreta que tú has encontrado"
+      "Te digo exactamente cuánto debes pujar"
     ],
     priceBefore: "150 EUR",
     priceNow: "99 EUR",
@@ -31,10 +31,10 @@ export const services: ServiceItem[] = [
     description: "La opción más elegida para evitar errores.",
     bullets: [
       "Servicio 'Informe Pro' totalmente incluido, y además:",
+      "Partimos de la subasta que tú has identificado y la optimizamos contigo",
       "Diseño tu plan de puja estratégico al milímetro",
       "Te acompaño paso a paso hasta que tengas la vivienda",
-      "Resuelvo tus dudas urgentes en tiempo real",
-      "Partimos de la subasta que tú has identificado y la optimizamos contigo"
+      "Resuelvo tus dudas urgentes en tiempo real"
     ],
     priceBefore: "398 EUR",
     priceNow: "199 EUR + 3%",
