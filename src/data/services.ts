@@ -29,7 +29,7 @@ export const services: ServiceItem[] = [
     trademark: "TM",
     description: "La opción más elegida para evitar errores.",
     bullets: [
-      "Servicio 'Informe Pro' totalmente incluido",
+      "Servicio 'Informe Pro' totalmente incluido, y además:",
       "Diseño tu plan de puja estratégico al milímetro",
       "Te acompaño paso a paso hasta que tengas la vivienda",
       "Resuelvo tus dudas urgentes en tiempo real"
