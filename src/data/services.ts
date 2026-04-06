@@ -9,7 +9,7 @@ export const services: ServiceItem[] = [
     bullets: [
       "Detecto cargas ocultas antes de que sea tarde",
       "Te explico exactamente qué estás comprando",
-      "Descubro quién vive realmente ahí (ocupantes)",
+      "Verifico que compras la vivienda con plena propiedad",
       "Calculo el valor real para evitar sobreprecios",
       "Te digo exactamente cuánto debes pujar"
     ],
