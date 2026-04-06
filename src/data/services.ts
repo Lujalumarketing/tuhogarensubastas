@@ -31,7 +31,7 @@ export const services: ServiceItem[] = [
     bullets: [
       "Servicio 'Informe Pro' totalmente incluido",
       "Diseño tu plan de puja estratégico al milímetro",
-      "Te acompaño paso a paso hasta que tengas las llaves",
+      "Te acompaño paso a paso hasta que tengas la vivienda",
       "Resuelvo tus dudas urgentes en tiempo real"
     ],
     priceBefore: "398 EUR",
