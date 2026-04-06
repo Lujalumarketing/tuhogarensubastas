@@ -64,7 +64,7 @@ export const services: ServiceItem[] = [
     microcopy: "La vía más rápida y segura para quien valora exclusivamente su tiempo y paz mental.",
     urgency: "Solo acepto 2 clientes al mes para mantener exclusividad.",
     notes: [
-      "El 4% sobre el valor se aplica solo si resultas adjudicatario definitivo (cuando la vivienda pase formalmente a tu nombre)."
+      "El 4% sobre el valor se aplica solo si resultas adjudicatario definitivo (cuando la autoridad gestora de la subasta la inscriba a tu nombre)."
     ],
     badge: "Delegación total",
     cta: "Quiero delegarlo todo"
