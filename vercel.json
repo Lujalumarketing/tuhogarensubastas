@@ -8,6 +8,11 @@
       "source": "/llamada",
       "destination": "https://calendar.app.google/31kqq7mstaSRPbfR7",
       "permanent": false
+    },
+    {
+      "source": "/regalo",
+      "destination": "https://drive.google.com/file/d/1S0l1Y-zwU6H6oRiMGc-qm4H0Ck6wTWrF/view?usp=sharing",
+      "permanent": false
     }
   ],
   "rewrites": [
